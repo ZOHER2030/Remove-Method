@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Method", "Remove Method\Remove Method.csproj", "{052FB6CD-6BC8-4BE8-AD85-DBD307B85C3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{052FB6CD-6BC8-4BE8-AD85-DBD307B85C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052FB6CD-6BC8-4BE8-AD85-DBD307B85C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052FB6CD-6BC8-4BE8-AD85-DBD307B85C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052FB6CD-6BC8-4BE8-AD85-DBD307B85C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C1C03E2-306F-4AEC-BDF3-B9574B8D47F0}
+	EndGlobalSection
+EndGlobal
